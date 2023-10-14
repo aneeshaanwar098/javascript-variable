@@ -15,3 +15,6 @@ console.log(DOB)
 
 DOB =(2005)
 console.log(DOB)
+ let myhobby ="painting"
+ console.log(myhobby)
+
